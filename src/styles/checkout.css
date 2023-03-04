@@ -1,0 +1,17 @@
+
+
+.checkout__bill{
+    background: #fde4e4;
+    padding: 30px;
+}
+.checkout__total{
+    border-color: 1px solid #ddd ;
+}
+@media only screen and (mwx-width:768px) {
+.checkout__bill  h6{
+        font-size: 0.9rem;
+    }
+}
+.checkout__bill{
+    margin-top: 40px;
+}

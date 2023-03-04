@@ -1,0 +1,36 @@
+
+
+.news2__img img {
+    width: 400px;
+    height: 180px;
+ 
+   
+}
+
+.news2__date{
+    font-size: 0.8rem;
+    float: left;
+    padding-right: 10px;
+}
+.news2__title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px !important;
+    margin-bottom: 15px;
+}
+.news2_category{
+    color: tomato;
+    font-size: 0.8rem;
+}
+
+.btn__news{
+ color: rgb(221, 26, 26);
+ font-size: 1.2rem;
+}
+
+.news_introduce{
+  color: #201d1d7c;
+}
+
+

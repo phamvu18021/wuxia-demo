@@ -1,0 +1,273 @@
+.home__container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
+.home__container::-webkit-scrollbar {
+    display: none;
+  }
+.v-shop{
+
+    height: 100vh !important;
+    width: 100vw;
+    scroll-snap-align: start;
+
+}
+.v-shop1{
+
+    height: 100vh !important;
+    width: 100vw;
+    scroll-snap-align: start;
+
+}
+
+.news_ss_head{
+    justify-content: space-between;
+     margin-bottom: -50px;
+     display: flex;
+}
+.news_ss_title{
+    float: left;   
+    font-size: 6rem !important;
+    color: #dc3d4b;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif !important; 
+}
+.btn_goto_news{
+    align-self: flex-end;
+    color: #fa4454;
+    margin-bottom: 50px;
+    font-size: 1.4rem;
+    font-weight: 600;
+
+}
+
+.v-shop2{
+    background-image: url('../assets/images/backg2.jpg');
+    background-repeat: no-repeat;
+    height: 100vh !important;
+    width: 100vw;
+    scroll-snap-align: start;
+}
+
+.news_home{
+    background-color: #bde6f0;
+}
+
+.category__ss_title {
+    justify-content: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #df2020;
+}
+
+.category__ss_bot {
+    padding-top: 20px;
+    justify-content: center;
+    font-size: 6.2rem;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #df2020;
+}
+
+.v-shop3{
+    background-image: url('../assets/images/backg6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh !important;
+    width: 100vw;
+    scroll-snap-align: start;
+}
+.v-shop4{
+    
+    height: 100vh !important;
+    width: 100vw;
+    scroll-snap-align: start;
+}
+
+
+.feature__subtitle {
+    color: #df2020;
+}
+
+
+.feature__item p {
+    color: #777;
+}
+
+.pop_title{
+    margin-top: 5vw;
+    float: right;
+    color: #df2020;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.0rem;
+    font-weight: 900;
+}
+
+.pop_title2{
+    margin-top: 5vw;
+    float: right;
+    color: #dfcc20;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.0rem;
+    font-weight: 900;
+}
+
+.product__category button {
+    margin-top: 10vh;
+    border: none;
+    outline: none;
+    padding: 7px 20px;
+    background: transparent;
+    color: #fff;
+
+}
+.product__category2 button {
+    border: none;
+    outline: none;
+    padding: 7px 20px;
+    background: transparent;
+    color: #fff;
+
+}
+
+.product__category button img {
+    width: 20px;
+    height: 20px;
+}
+
+.tagBtnActive {
+    background: #fff !important;
+    border-radius: 5px;
+    color: #df2020 !important;
+}
+
+.tasty__treat-title span {
+    color: #df2020;
+}
+
+.chose__us-desc {
+    color: #777;
+    line-height: 28px;
+}
+
+.chose__us-title {
+    font-weight: 600;
+}
+
+.chose__us-title i {
+    font-weight: 500 !important;
+    color: #df2020;
+}
+
+.col_img_why{
+ 
+    justify-content: center;
+    display: flex;
+}
+.why_img{
+
+   background-image: url(../assets/images/backg-circle1.png);
+   height: 500px;
+   width: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+@media only screen and (max-width:768px){
+    .hero__content h5 {
+        font-size: 1rem;
+    }
+    .hero__content p{
+        font-size: 0.8rem;
+        line-height: 25px;
+    }
+
+    .hero__title{
+        font-size: 1.5rem;
+        line-height: 40px;        
+    }
+    .hero__btns button {
+        padding: 5px 15px;
+        font-size: 0.7rem;
+   }
+   .hero__service p{
+      font-size: 0.7rem !important;
+   }
+   .feature__item h5{
+    font-size: 0.9rem;
+   }
+   .feature__item p {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+   }
+
+   .feature__subtitle{
+    font-size: 1rem;
+   }
+.food__category{
+  padding: 15px;
+}
+   .feature__text{
+     font-size: 0.8rem;
+     margin-bottom: 0;
+   }
+
+   .food__category button{
+    padding:  5px15p;
+    font-size: 0.7rem ;
+   }
+
+   .chose__us-title {
+    font-size: 0.8rem;
+   }
+   .chose__us-desc{
+    font-size: 0.7rem;
+    margin-bottom: 0;
+   }
+   .why__choose-us{
+    padding-top: 0 !important;
+   }
+   .testimonial__subtitle{
+    font-size: 1rem;
+   }
+   .testimonial__desc{
+    font-size: 0.8rem;
+   }
+}
+@media only screen and (max-width:576px) {
+    .hero__content{
+        text-align: center;
+    }
+    .hero__content h5 {
+        font-size: 1rem;
+    }
+    .hero__content p{
+        font-size: 0.8rem;
+        line-height: 25px;
+    }
+
+    .hero__title{
+        font-size: 1.5rem;
+        line-height: 40px;        
+    }
+    .hero__btns {
+        justify-self: center;
+        font-size: 0.7rem;        
+    }
+    .hero__btns button {
+         padding: 5px 15px;
+         font-size: 0.7rem;
+    }
+
+    .hero__service{
+        text-align: center;
+    }
+    .why__choose-us{
+        padding-top: 0 !important;
+       }
+    
+}
