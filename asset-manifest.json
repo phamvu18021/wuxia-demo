@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wuxia-demo/static/css/main.54567c69.css",
-    "main.js": "/wuxia-demo/static/js/main.65ba8828.js",
+    "main.js": "/wuxia-demo/static/js/main.4ed87f4b.js",
     "static/media/wall1.jpg": "/wuxia-demo/static/media/wall1.401fad6046f17df38ca5.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/wuxia-demo/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/wuxia-demo/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -176,10 +176,10 @@
     "static/media/slick.woff": "/wuxia-demo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/wuxia-demo/index.html",
     "main.54567c69.css.map": "/wuxia-demo/static/css/main.54567c69.css.map",
-    "main.65ba8828.js.map": "/wuxia-demo/static/js/main.65ba8828.js.map"
+    "main.4ed87f4b.js.map": "/wuxia-demo/static/js/main.4ed87f4b.js.map"
   },
   "entrypoints": [
     "static/css/main.54567c69.css",
-    "static/js/main.65ba8828.js"
+    "static/js/main.4ed87f4b.js"
   ]
 }
