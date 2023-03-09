@@ -15,6 +15,7 @@ import News from '../pages/News'
 
 const Routers = () => {
   return <Routes>
+     <Route path='/wuxia-demo' element={<Home />} />
     <Route path='/' element={<Navigate to ='/home' />} />
     <Route path='/home' element={<Home />}  />
     <Route path='/products' element={<AllProducts />}  />
