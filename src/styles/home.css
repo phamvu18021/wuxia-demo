@@ -57,6 +57,7 @@
 
 .news_home{
     background-color: #bde6f0;
+    position: relative;
 }
 
 .category__ss_title {
@@ -201,7 +202,13 @@
     .v-shop4{
         height: max-content !important;
     }
-
+     .news_inhome{
+        width: 60% !important;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        
+     }
     .home__container{
         height: unset !important;
         overflow-y: hidden;

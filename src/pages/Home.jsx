@@ -210,7 +210,7 @@ const Home = () => {
               <Row>
                 {
                   news.slice(0, 3).map((item) => (
-                    <Col lg='4' md='6' sm='12' className='d-flex '>
+                    <Col lg='4' md='6' sm='12' className='d-flex news_inhome '>
                       <NewsCard2 item={item} />
                     </Col>
                   ))
