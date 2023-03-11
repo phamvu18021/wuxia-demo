@@ -81,7 +81,10 @@ const ProductCard = (props) => {
     return (
         <div className='product__item'  style={{ '--my-image': `url('${backg.imgbg}')`, '--hover-image':  `url(${backg.imghv})`,'--border-image':  `${backg.color}` }}>
             <div className='product__img'>
+            <Link to={`/products/${id}`}>
                 <img className='product_image' src={image01} alt="product-img" />
+            </Link>
+                
             </div>
             <div className="product__content">
                 <p className='product__title'><Link to={`/products/${id}`}>{title}</Link></p>
