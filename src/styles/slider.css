@@ -1,16 +1,17 @@
 
 .review__text {
-    color: #d32525;
+    color: #a01010;
     line-height: 30px;
     margin: 40px 0px;
     position: absolute;
     left: 10%;
     top: 30%;
-    z-index: 999;
-    font-size: 4rem;
+    z-index: 99999999;
+    font-size: 3.5rem;
     font-weight: 900;
     margin-bottom: 20px;
-    font-family:Arial, Helvetica, sans-serif;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    font-family: 'Whisper', cursive;
 }
 .btnsl{
     background-color: #d32525;
@@ -19,7 +20,11 @@
     top:60%;
     z-index: 999;
     color:#fff ;
-    padding: 15px 30px;
+    padding: 16px 42px;
+    font-family: 'Whisper', cursive;
+    font-size: 2rem;
+    font-weight: 600;
+    border-radius: 5px;
 }
 .btnsl:hover{
     background-color: #364966;
@@ -46,7 +51,7 @@
     height: 100vh;
     
     object-fit: cover;
-    margin-top: -10vh;
+    margin-top:0;
 }
 
 @media only screen and (max-width:768px) {
@@ -65,7 +70,7 @@
     }
 
     .slider__content{
-        height:60vh;
+        height:100vh;
         width: max-content;
         object-fit:fill !important;
     }
@@ -74,3 +79,22 @@
         font-size: 0.8rem;
     }
 }
+
+.model img{
+  position: absolute;
+  top:20%;
+  left: 0%;
+  z-index: 999999;
+  height: 50rem;
+  width: auto;
+}
+
+
+.item img{
+    position: absolute;
+    top:20%;
+    left: 75%;
+    z-index: 999999;
+    height: 50rem;
+    width: auto;
+  }

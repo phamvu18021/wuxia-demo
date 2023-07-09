@@ -1,7 +1,7 @@
 .home__container{
-    scroll-snap-type: y mandatory;
-    overflow-y: scroll;
-    height: 100vh;
+    /* scroll-snap-type: y mandatory; */
+    /* overflow-y: scroll;
+    height: 100vh; */
     position: relative;
 }
 .home__container::-webkit-scrollbar {
@@ -56,7 +56,7 @@
 }
 
 .news_home{
-    background-color: #bde6f0;
+    background-color: #05191f;
     position: relative;
 }
 
@@ -107,7 +107,7 @@
 .pop_title{
     margin-top: 5vw;
     float: right;
-    color: #df2020;
+    color: #4ac598;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 3.0rem;
     font-weight: 900;
@@ -183,6 +183,10 @@
     background-position: center;
 
 }
+.why__choose-us{
+  
+    background-color: #05191f;
+   }
 
 
 @media only screen and (max-width:768px){
@@ -242,6 +246,7 @@
    }
    .why__choose-us{
     padding-top: 0 !important;
+    background-color: #05191f;
    }
    .testimonial__subtitle{
     font-size: 1rem;

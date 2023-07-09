@@ -69,9 +69,9 @@ const Header = () => {
             <div className="menu d-flex align-items-center gap-5">
               {nav__links.map((item, index) => (
                 <NavLink
-                  onClick={toggleMenu}
+                  // onClick={toggleMenu}
                   to={item.path} key={index}
-                  className={navClass => navClass.isActive ? 'active__menu' : ""}
+                  // className={navClass => navClass.isActive ? 'active__menu' : ""}
                 >
                   {item.display}
                 </NavLink>
