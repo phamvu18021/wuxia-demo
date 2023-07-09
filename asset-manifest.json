@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wuxia-demo/static/css/main.792bd67f.css",
-    "main.js": "/wuxia-demo/static/js/main.1a262610.js",
-    "static/media/wall1.jpg": "/wuxia-demo/static/media/wall1.401fad6046f17df38ca5.jpg",
+    "main.css": "/wuxia-demo/static/css/main.a7f33bdf.css",
+    "main.js": "/wuxia-demo/static/js/main.41384a35.js",
     "static/media/remixicon.svg?t=1590207869815": "/wuxia-demo/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/wuxia-demo/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/wuxia-demo/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/fullarmor3.png": "/wuxia-demo/static/media/fullarmor3.3ba6f13e1b2f2d44a110.png",
-    "static/media/wall.jpg": "/wuxia-demo/static/media/wall.ea4a6b0533922d483573.jpg",
     "static/media/backg6.jpg": "/wuxia-demo/static/media/backg6.1d74f939943e13197926.jpg",
     "static/media/fullarmor4.png": "/wuxia-demo/static/media/fullarmor4.0766ea5b5ee6d34859b9.png",
+    "static/media/backe.jpg": "/wuxia-demo/static/media/backe.767e4698b6413539df23.jpg",
     "static/media/fullarmor6.png": "/wuxia-demo/static/media/fullarmor6.a9b78468ddc4c5c6ee2b.png",
+    "static/media/backc.jpg": "/wuxia-demo/static/media/backc.a7e89e889dbd573e368a.jpg",
     "static/media/fullarmor2.png": "/wuxia-demo/static/media/fullarmor2.d3082134cce239b08ba2.png",
     "static/media/armor3.png": "/wuxia-demo/static/media/armor3.f891ac6c435fc609048b.png",
     "static/media/hammer5.png": "/wuxia-demo/static/media/hammer5.4fc4572ad9fb53e8cf67.png",
@@ -18,6 +18,8 @@
     "static/media/armor13.png": "/wuxia-demo/static/media/armor13.9c6eb84e38a7c8ca72a3.png",
     "static/media/shield1.png": "/wuxia-demo/static/media/shield1.98d84aca42dd8df274f2.png",
     "static/media/shield6.png": "/wuxia-demo/static/media/shield6.73130909f63523d61f88.png",
+    "static/media/weapon-removebg-preview.png": "/wuxia-demo/static/media/weapon-removebg-preview.8fe89c86e679588b8b80.png",
+    "static/media/knight-removebg-preview.png": "/wuxia-demo/static/media/knight-removebg-preview.7eb34a71ceec667b97ae.png",
     "static/media/fullarmor5.png": "/wuxia-demo/static/media/fullarmor5.e96d589e2bbef648e7ef.png",
     "static/media/armor9.png": "/wuxia-demo/static/media/armor9.65efc13a0d16eecda569.png",
     "static/media/hammer3.png": "/wuxia-demo/static/media/hammer3.dd1f1cbd40b031bcf683.png",
@@ -33,7 +35,6 @@
     "static/media/armor8.png": "/wuxia-demo/static/media/armor8.c845e7cdccf2dfbdb6f7.png",
     "static/media/armor7.png": "/wuxia-demo/static/media/armor7.1794cc1ab2c991a8e348.png",
     "static/media/armor15.png": "/wuxia-demo/static/media/armor15.72d72e83604f54a714ca.png",
-    "static/media/wall2.jpg": "/wuxia-demo/static/media/wall2.1f85ec7578484e0f5be8.jpg",
     "static/media/magicp7.png": "/wuxia-demo/static/media/magicp7.6f3dac76b365fed67444.png",
     "static/media/magicbook4.png": "/wuxia-demo/static/media/magicbook4.008a1453d2b11421b419.png",
     "static/media/magicp4.png": "/wuxia-demo/static/media/magicp4.f58a9bd3cb3623adb5de.png",
@@ -60,6 +61,7 @@
     "static/media/hammer2.png": "/wuxia-demo/static/media/hammer2.d82b14219e8f9046b585.png",
     "static/media/magicp6.png": "/wuxia-demo/static/media/magicp6.44e749f5b6667a233a69.png",
     "static/media/sword5.png": "/wuxia-demo/static/media/sword5.f6414eb836580e92a7c0.png",
+    "static/media/backd.jpg": "/wuxia-demo/static/media/backd.55e2f84d5de3c87f7579.jpg",
     "static/media/artbook2.png": "/wuxia-demo/static/media/artbook2.28fc208ee783658f6a06.png",
     "static/media/healtp3.png": "/wuxia-demo/static/media/healtp3.56e42a167599f96e5456.png",
     "static/media/magicp9.png": "/wuxia-demo/static/media/magicp9.ad9d77ed25a4d7b3bfc2.png",
@@ -175,11 +177,11 @@
     "static/media/slick.ttf": "/wuxia-demo/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/wuxia-demo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/wuxia-demo/index.html",
-    "main.792bd67f.css.map": "/wuxia-demo/static/css/main.792bd67f.css.map",
-    "main.1a262610.js.map": "/wuxia-demo/static/js/main.1a262610.js.map"
+    "main.a7f33bdf.css.map": "/wuxia-demo/static/css/main.a7f33bdf.css.map",
+    "main.41384a35.js.map": "/wuxia-demo/static/js/main.41384a35.js.map"
   },
   "entrypoints": [
-    "static/css/main.792bd67f.css",
-    "static/js/main.1a262610.js"
+    "static/css/main.a7f33bdf.css",
+    "static/js/main.41384a35.js"
   ]
 }
